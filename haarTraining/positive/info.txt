@@ -1,0 +1,99 @@
+rawdata/(1).bmp 1 135 77 87 91
+rawdata/(10).bmp 2 296 110 33 40 398 144 50 44
+rawdata/(100).bmp 1 163 126 122 133
+rawdata/(11).bmp 1 114 215 206 207
+rawdata/(12).bmp 1 184 93 194 260
+rawdata/(13).bmp 1 161 99 325 465
+rawdata/(14).bmp 1 167 274 162 162
+rawdata/(15).bmp 1 193 27 164 182
+rawdata/(16).bmp 1 227 86 92 117
+rawdata/(17).bmp 1 283 22 122 135
+rawdata/(18).bmp 1 224 49 132 146
+rawdata/(19).bmp 1 209 38 137 160
+rawdata/(2).bmp 1 175 288 129 164
+rawdata/(20).bmp 1 197 172 117 136
+rawdata/(21).bmp 3 335 140 27 38 112 153 16 33 46 170 15 24
+rawdata/(22).bmp 1 158 32 127 154
+rawdata/(23).bmp 1 188 196 131 150
+rawdata/(24).bmp 3 151 87 36 50 219 93 25 35 282 78 36 33
+rawdata/(25).bmp 1 269 120 68 71
+rawdata/(26).bmp 1 235 256 40 51
+rawdata/(27).bmp 1 149 144 233 341
+rawdata/(28).bmp 1 224 66 92 117
+rawdata/(29).bmp 1 122 159 181 175
+rawdata/(3).bmp 1 188 47 99 131
+rawdata/(30).bmp 1 204 85 86 99
+rawdata/(31).bmp 1 232 187 234 318
+rawdata/(32).bmp 3 135 186 73 83 390 215 63 83 471 148 53 65
+rawdata/(33).bmp 1 378 73 99 146
+rawdata/(34).bmp 1 209 271 247 205
+rawdata/(35).bmp 1 130 177 255 237
+rawdata/(36).bmp 3 286 102 83 98 439 109 72 85 549 100 88 90
+rawdata/(37).bmp 1 318 252 114 124
+rawdata/(38).bmp 1 223 229 241 245
+rawdata/(39).bmp 1 455 58 209 251
+rawdata/(4).bmp 1 181 69 82 81
+rawdata/(40).bmp 1 137 122 371 490
+rawdata/(41).bmp 1 309 192 236 266
+rawdata/(42).bmp 1 241 177 213 225
+rawdata/(43).bmp 1 321 121 144 168
+rawdata/(44).bmp 1 291 366 155 119
+rawdata/(45).bmp 1 367 167 132 196
+rawdata/(46).bmp 1 210 123 296 355
+rawdata/(47).bmp 1 262 100 193 214
+rawdata/(49).bmp 1 230 320 110 133
+rawdata/(5).bmp 1 131 264 209 197
+rawdata/(50).bmp 1 285 282 103 89
+rawdata/(51).bmp 1 88 340 503 512
+rawdata/(52).bmp 1 247 405 224 210
+rawdata/(53).bmp 1 230 353 216 189
+rawdata/(54).bmp 1 305 49 98 114
+rawdata/(55).bmp 1
+rawdata/(56).bmp 1 287 241 150 157
+rawdata/(57).bmp 3 282 49 89 110 181 108 58 75 120 118 31 40
+rawdata/(58).bmp 5 86 461 58 70 188 472 72 65 312 467 85 84 432 464 73 59 541 483 87 58
+rawdata/(59).bmp 4 67 87 41 50 189 74 44 55 300 53 42 55 412 126 48 36
+rawdata/(6).bmp 4 95 48 21 28 180 63 27 29 265 84 23 22 377 59 26 39
+rawdata/(60).bmp 1 262 318 123 149
+rawdata/(61).bmp 1 150 47 144 154
+rawdata/(62).bmp 1 213 116 131 153
+rawdata/(63).bmp 1 239 300 68 84
+rawdata/(64).bmp 1 244 246 84 120
+rawdata/(65).bmp 1 231 306 49 68
+rawdata/(66).bmp 1 204 165 87 97
+rawdata/(67).bmp 1 192 201 92 113
+rawdata/(68).bmp 1 232 225 77 107
+rawdata/(69).bmp 1 169 28 140 177
+rawdata/(7).bmp 1 97 66 316 421
+rawdata/(70).bmp 1 238 151 51 75
+rawdata/(71).bmp 1 211 264 110 131
+rawdata/(72).bmp 1 217 133 59 77
+rawdata/(73).bmp 1 221 34 76 78
+rawdata/(74).bmp 1 181 99 138 162
+rawdata/(75).bmp 1 174 20 77 76
+rawdata/(76).bmp 1 135 320 122 154
+rawdata/(77).bmp 1 142 143 174 189
+rawdata/(78).bmp 1 220 212 83 114
+rawdata/(79).bmp 1 139 271 37 35
+rawdata/(8).bmp 1 98 51 107 141
+rawdata/(80).bmp 1 137 227 221 305
+rawdata/(81).bmp 1 227 273 159 202
+rawdata/(82).bmp 1 387 193 77 109
+rawdata/(83).bmp 1 89 62 350 401
+rawdata/(84).bmp 1 129 147 200 206
+rawdata/(85).bmp 1 186 163 141 170
+rawdata/(86).bmp 1 259 58 126 123
+rawdata/(87).bmp 1 76 116 342 353
+rawdata/(88).bmp 1 179 171 137 173
+rawdata/(89).bmp 1 159 112 136 150
+rawdata/(9).bmp 1 231 279 86 112
+rawdata/(90).bmp 1 75 89 186 198
+rawdata/(91).bmp 1 201 43 101 104
+rawdata/(92).bmp 1 153 107 238 297
+rawdata/(93).bmp 1 80 136 282 275
+rawdata/(94).bmp 1 248 20 80 94
+rawdata/(95).bmp 1 179 201 165 212
+rawdata/(96).bmp 1 128 176 244 288
+rawdata/(97).bmp 1 109 197 215 251
+rawdata/(98).bmp 4 74 137 57 54 193 151 57 44 280 151 40 41 356 123 46 67
+rawdata/(99).bmp 1 188 251 114 168
